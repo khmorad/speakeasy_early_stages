@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759996449576",
+    "project_id": "sppeeeak",
+    "storage_bucket": "sppeeeak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759996449576:android:670fcd1910ce22b22b461d",
+        "android_client_info": {
+          "package_name": "com.example.public_speaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759996449576-4v232394fgoqcf3rdpqs7f2cbcfsv6g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8VMvtXZ_4CItqw1tvX7QfM7SYkOh3f1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759996449576-4v232394fgoqcf3rdpqs7f2cbcfsv6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
